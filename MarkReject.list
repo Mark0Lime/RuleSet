@@ -1,0 +1,8 @@
+DOMAIN-KEYWORD,log.
+DOMAIN-KEYWORD,logs.
+DOMAIN-KEYWORD,applog
+DOMAIN-KEYWORD,umeng
+DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN-SUFFIX,shouji.sogou.com
+URL-REGEX,"advertisement"
