@@ -10,4 +10,5 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,tekqart.com
 DOMAIN-KEYWORD,weixin.qq.com
+DOMAIN-KEYWORD,wogg
 URL-REGEX,"m3u8"
